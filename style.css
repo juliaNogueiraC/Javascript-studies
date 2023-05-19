@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#countLabel {
+  display: block;
+  background-color: lightcyan;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  font-size: 50px;
+  border: 1px solid black;
+}
