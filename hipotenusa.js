@@ -7,6 +7,7 @@ document.getElementById("submit").onclick = function() {
 
   c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
 
+
   document.getElementById("cLabel").innerHTML = "side C: " + c;
 
 
