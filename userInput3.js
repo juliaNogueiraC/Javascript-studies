@@ -4,7 +4,7 @@
 /*
 let name = window.prompt("your name?")
 console.logo(name);
-*/
+
 
 //difficult way html textbox
 let name;
@@ -18,3 +18,15 @@ document.getElementById("myButton").onclick = function(){
   // ele muda o nome da legenda da caixa quando inserimos um nome
   
 }
+
+*/
+//convert string to other type
+let age = window.prompt ("old are u?");
+age = number(age);
+console.log(typeof age);
+age += 1;
+//
+
+let x;
+x = number("3.12");
+console.log(x, typeof x);
